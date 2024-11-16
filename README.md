@@ -9,7 +9,7 @@ w1w0 = 10: Increment count by 2.
 
 w1w0 = 11: Decrement count by 1.
 
-#Key Features
+# Key Features
 
 Reset and Clocking:
 
